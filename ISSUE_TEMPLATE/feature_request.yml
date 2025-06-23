@@ -1,0 +1,180 @@
+name: 🚀 Feature Request
+description: Suggest a new feature or enhancement for the FormerlyIncarcerated.org platform
+title: "[Feature]: "
+labels: ["enhancement", "feature-request", "community-input"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a feature! Your input helps us build better solutions for our community.
+
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: 🎯 Problem Statement
+      description: What problem does this feature solve?
+      placeholder: Describe the current challenge or limitation that this feature would address
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: affected-users
+    attributes:
+      label: 👥 Who is affected by this problem?
+      description: Select all that apply
+      options:
+        - label: Formerly incarcerated individuals
+        - label: Community members and advocates
+        - label: Employers/Organizations
+        - label: Platform administrators
+        - label: Developers and contributors
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: 💡 Proposed Solution
+      description: Describe your proposed solution in detail
+      placeholder: Explain how this feature would work and what it would accomplish
+    validations:
+      required: true
+
+  - type: textarea
+    id: integration
+    attributes:
+      label: 🔗 Integration Considerations
+      description: How would this feature integrate with existing functionality?
+      placeholder: Consider how it fits into the current platform architecture and user experience
+
+  - type: textarea
+    id: user-stories
+    attributes:
+      label: 👥 User Stories
+      description: Please complete the relevant user stories
+      placeholder: |
+        - As a **formerly incarcerated individual**, I want [goal] so that [benefit]
+        - As a **community member**, I want [goal] so that [benefit]
+        - As an **employer/organization**, I want [goal] so that [benefit]
+        - As a **platform administrator**, I want [goal] so that [benefit]
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: ✅ Acceptance Criteria
+      description: Define what "done" looks like for this feature
+      placeholder: |
+        - [ ] Functional requirement 1
+        - [ ] Functional requirement 2
+        - [ ] Performance requirement (if applicable)
+        - [ ] Security requirement (if applicable)
+        - [ ] Accessibility requirement
+        - [ ] Mobile compatibility
+        - [ ] Documentation updated
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: web3-considerations
+    attributes:
+      label: 🔐 Web3/Blockchain Considerations
+      description: Does this feature involve Web3 technology?
+      options:
+        - label: Smart contracts
+        - label: Token interactions
+        - label: Identity verification
+        - label: Privacy/zero-knowledge proofs
+        - label: Multi-chain functionality
+        - label: Not applicable
+
+  - type: textarea
+    id: web3-details
+    attributes:
+      label: ⛓️ Web3 Implementation Details
+      description: If yes above, please describe the Web3 components
+      placeholder: Describe any blockchain, smart contract, or Web3 technology requirements
+
+  - type: dropdown
+    id: community-impact
+    attributes:
+      label: 📊 Expected Community Impact
+      description: What level of impact do you expect this feature to have?
+      options:
+        - "High impact - Critical for platform success"
+        - "Medium impact - Significant improvement"
+        - "Low impact - Nice to have enhancement"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: estimated-effort
+    attributes:
+      label: ⏱️ Estimated Development Effort
+      description: How complex do you think this feature would be to implement?
+      options:
+        - "Small (1-2 days)"
+        - "Medium (3-5 days)"
+        - "Large (1-2 weeks)"
+        - "Epic (Multiple weeks/months)"
+        - "Unknown"
+
+  - type: textarea
+    id: mockups
+    attributes:
+      label: 🎨 Mockups and Examples
+      description: Attach any visual aids that help explain the feature
+      placeholder: Mockups, wireframes, screenshots, or examples from other platforms
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 🔄 Alternative Solutions
+      description: What other approaches did you consider?
+      placeholder: Why is this the preferred solution over alternatives?
+
+  - type: checkboxes
+    id: community-help
+    attributes:
+      label: 🤝 How can the community help with this feature?
+      description: Select all that apply
+      options:
+        - label: Design feedback and input
+        - label: Technical implementation input
+        - label: Testing and validation
+        - label: Documentation and guides
+        - label: User research and feedback
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🎯 Priority Level
+      description: How important is this feature from your perspective?
+      options:
+        - "Critical - Needed immediately"
+        - "High - Important for next release"
+        - "Medium - Would be great to have"
+        - "Low - Future consideration"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: 📝 Additional Context
+      description: Any other information that would be helpful
+      placeholder: Related issues, external resources, or additional considerations
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: ✅ Confirmation
+      description: Please confirm the following
+      options:
+        - label: I have searched existing issues and discussions to avoid duplicates
+          required: true
+        - label: This feature aligns with the FormerlyIncarcerated.org mission
+          required: true
+        - label: I am willing to participate in discussions about this feature
+          required: false
