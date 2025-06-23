@@ -1,0 +1,182 @@
+name: 🐛 Bug Report
+description: Report a bug or issue with the FormerlyIncarcerated.org platform
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting a bug! This helps us improve the platform for everyone in our community.
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: 🐛 Bug Description
+      description: Provide a clear and concise description of the bug
+      placeholder: What happened that shouldn't have happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: ✅ Expected Behavior
+      description: What did you expect to happen instead?
+      placeholder: Describe the expected behavior
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: 🔄 Steps to Reproduce
+      description: Please provide detailed steps to reproduce the issue
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Fill in '...'
+        4. See error
+    validations:
+      required: true
+
+  - type: dropdown
+    id: reproducibility
+    attributes:
+      label: 🔁 Reproducibility
+      description: Can you consistently reproduce this issue?
+      options:
+        - "Yes, every time"
+        - "Sometimes (intermittent)"
+        - "Only once so far"
+        - "Unable to reproduce"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: 🌐 Platform/Device
+      description: What platform are you using?
+      options:
+        - "Web (Desktop)"
+        - "Web (Mobile)"
+        - "Mobile App (iOS)"
+        - "Mobile App (Android)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: 🌍 Browser (if applicable)
+      description: Which browser are you using?
+      options:
+        - "Chrome"
+        - "Firefox"
+        - "Safari"
+        - "Edge"
+        - "Other"
+
+  - type: input
+    id: browser-version
+    attributes:
+      label: Browser Version
+      placeholder: e.g., Chrome 120.0.6099.109
+
+  - type: input
+    id: os-version
+    attributes:
+      label: Operating System
+      placeholder: e.g., Windows 11, macOS 14.2, iOS 17.2
+
+  - type: dropdown
+    id: web3-wallet
+    attributes:
+      label: 🔐 Web3 Wallet (if applicable)
+      description: Which wallet are you using?
+      options:
+        - "MetaMask"
+        - "WalletConnect"
+        - "Coinbase Wallet"
+        - "Other"
+        - "Not applicable"
+
+  - type: dropdown
+    id: blockchain-network
+    attributes:
+      label: ⛓️ Blockchain Network (if applicable)
+      description: Which network were you using?
+      options:
+        - "Ethereum Mainnet"
+        - "Polygon"
+        - "Arbitrum"
+        - "Base"
+        - "Testnet"
+        - "Not applicable"
+
+  - type: input
+    id: transaction-hash
+    attributes:
+      label: Transaction Hash (if applicable)
+      placeholder: 0x...
+
+  - type: dropdown
+    id: user-type
+    attributes:
+      label: 👤 User Account Type
+      description: What type of account are you using?
+      options:
+        - "Formerly incarcerated individual"
+        - "Community member"
+        - "Employer/Organization"
+        - "Administrator"
+        - "Guest/Not logged in"
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: 💥 Impact Severity
+      description: How severe is this issue?
+      options:
+        - "Critical - Prevents core functionality"
+        - "High - Major feature broken"
+        - "Medium - Minor feature affected"
+        - "Low - Cosmetic or edge case"
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 📸 Screenshots/Evidence
+      description: Please attach screenshots, error messages, or screen recordings
+      placeholder: Drag and drop files here or paste screenshots
+
+  - type: textarea
+    id: console-errors
+    attributes:
+      label: 🔍 Console Errors (if applicable)
+      description: Any console errors or logs
+      render: shell
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: 📝 Additional Context
+      description: Any other context about the problem
+      placeholder: When did you first notice this? Has this feature worked before? Any recent changes?
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: ✅ Confirmation
+      description: Please confirm the following
+      options:
+        - label: I have searched existing issues to avoid duplicates
+          required: true
+        - label: I have provided all relevant information
+          required: true
+        - label: I am available to help test a fix if needed
+          required: false
