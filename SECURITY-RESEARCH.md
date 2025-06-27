@@ -1,27 +1,76 @@
 ## 🔐 Security Researcher | Privacy Advocate | Vulnerability Hunter  
+
+![Profile Views](https://komarev.com/ghpvc/?username=jlucus&color=red&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/jlucus?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/jlucus?style=social)
+
+[![Security Research](https://img.shields.io/badge/Focus-Security%20Research-red?style=for-the-badge&logo=security&logoColor=white)](https://github.com/jlucus)
+[![Vulnerability Hunter](https://img.shields.io/badge/Role-Vulnerability%20Hunter-orange?style=for-the-badge&logo=bug&logoColor=white)](https://github.com/jlucus)
+[![Web3 Security](https://img.shields.io/badge/Specialty-Web3%20Security-purple?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/jlucus)
+[![Responsible Disclosure](https://img.shields.io/badge/Practice-Responsible%20Disclosure-green?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/jlucus)
+
 Focused on uncovering critical flaws in high-impact platforms to protect users and infrastructure.
 
 ### 🔭 Security Research Highlights  
-**Telegram**  
-- Discovered and responsibly disclosed critical API vulnerabilities exposing user metadata TBA.  
-- Developed PoC demonstrating unauthorized account takeover's via twitch oAuth. 
+
+**Communication Platforms**  
+- Discovered and responsibly disclosed critical API vulnerabilities in major messaging platforms
+- Developed proof-of-concept demonstrating authentication bypass vulnerabilities
+- [Telegram Bot API Security Research](https://github.com/jlucus/tg-bot-disclosure) - Documented API vulnerabilities with responsible disclosure
 
 **Government Systems**  
-- Conducted Safe Harbor disclosures for Government Agencies & their digital infrastructure  
-- Identified chain vulnerabilities in citizen data portals preventing mass PII exposure  
--   
+- Conducted Safe Harbor disclosures for government agencies and their digital infrastructure  
+- Identified vulnerability chains in citizen data portals, preventing potential mass PII exposure  
+- Collaborated with public sector security teams on remediation strategies
 
-**Casino/Gaming Platforms**  
-- Uncovered authentication bypass allowing account takeover of of users. 
-- Reported transaction verification flaws enabling balance manipulation.  
-- Found data leakage vectors exposing KYC documents and payment records.
-- Discovered $SHFL contract Malicious Intent, including the owner Noah Dummett who has stolen $50,000,000 from the now collapsed FTX. 
+**Financial & Gaming Platforms**  
+- Uncovered authentication bypass vulnerabilities allowing unauthorized account access
+- Reported transaction verification flaws in payment processing systems
+- Identified data leakage vectors exposing sensitive user documents and financial records
+- Conducted blockchain security audits identifying smart contract vulnerabilities
+
+**Web3 Security Research**  
+- [Smart Contract Analysis](https://github.com/4eckd/Shuffle.com-Airdrop-Scam) - Detailed technical analysis of Ethereum contracts with deceptive event emissions and hidden token redirection mechanisms
+- [Crypto Platform Investigation](https://github.com/4eckd/noahdummett) - Comprehensive investigation into alleged fund misappropriation and operational security concerns in cryptocurrency gambling platforms
+- [Web3 Accountability Research](https://github.com/cyberapeyachtclub/cyberapeyachtclub) - Documentation of concerning patterns in cryptocurrency project leadership and operational practices
+- Blockchain forensics and transaction analysis for fraud detection
+- Smart contract decompilation and security vulnerability assessment
 
 ### 🛠️ Technical Focus  
-- Web/API Security • Reverse Engineering • Threat Modeling  
-- Privacy-by-design systems • Cryptographic implementations  
-- Blockchain security • Cloud infrastructure auditing  
 
-### 🌐 Connect  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+- **Application Security:** Web/API Security • Authentication & Authorization • Input Validation
+- **Infrastructure:** Cloud Security • Network Penetration Testing • Infrastructure Auditing  
+- **Emerging Technologies:** Blockchain Security • Smart Contract Analysis • Cryptographic Implementations
+- **Research Methods:** Reverse Engineering • Threat Modeling • Privacy-by-Design Systems
+
+### 🔍 Notable Security Findings
+
+**Critical Smart Contract Vulnerabilities**
+- Identified deceptive event emissions causing blockchain explorers to display misleading information
+- Discovered hidden token redirection mechanisms in burn functions that secretly transfer tokens instead of destroying them
+- Documented selective functionality patterns designed to obfuscate contract behavior
+
+**Platform Security Analysis**
+- Investigated alleged $20M+ fund misappropriation cases with comprehensive blockchain analysis
+- Analyzed anonymous leadership structures and operational pattern concerns
+- Documented security vulnerabilities affecting vulnerable user populations in gambling platforms
+- Responsible disclosure following industry best practices
+- Collaboration with security teams for effective remediation
+- Documentation and knowledge sharing with the security community
+- Focus on high-impact vulnerabilities affecting user privacy and financial security
+
+### 📋 Research Methodology  
 [![Personal Website](https://img.shields.io/badge/-jlucus.dev-3423A6?style=flat&logo=google-chrome&logoColor=white)](https://jlucus.dev)  
 [![Email](https://img.shields.io/badge/-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@domain.com)
+
+---
+![Visitor Count](https://profile-counter.glitch.me/jlucus/count.svg)
+
+*All security research is conducted ethically with proper authorization and follows responsible disclosure practices.*
