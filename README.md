@@ -1,8 +1,10 @@
 # Welcome to my dev playground! 🎮
 
-**Alternative Development Account | Experimenting & Building**
-
-> *Part of the [@jlucus](https://github.com/jlucus) development ecosystem*
+## 🔍 Navigation
+[![Research](https://img.shields.io/badge/SECURITY_RESEARCH-3423A6?style=for-the-badge&logo=github&logoColor=orange)](SECURITY-RESEARCH.md)
+[![Website](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=purple)](https://jlucus.dev)
+[![Jlucus](https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlucus?tab=repositories)
+[![4eckd](https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github&logoColor=grey)](https://github.com/4eckd?tab=repositories)
 
 ## 🧪 About This Account
 
