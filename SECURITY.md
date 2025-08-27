@@ -1,6 +1,20 @@
-## 🔐 Security Researcher | Privacy Advocate | Vulnerability Hunter  
+# Security Policy
 
-![Profile Views](https://komarev.com/ghpvc/?username=jlucus&color=red&style=flat-square&label=Profile+Views)
+## Supported Versions
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
+
+## Reporting a Vulnerability
+
+---
+
+## 🔐 Security Researcher Profile 
+
 ![GitHub followers](https://img.shields.io/github/followers/jlucus?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/jlucus?style=social)
 
@@ -8,6 +22,7 @@
 [![Vulnerability Hunter](https://img.shields.io/badge/Role-Vulnerability%20Hunter-orange?style=for-the-badge&logo=bug&logoColor=white)](https://github.com/jlucus)
 [![Web3 Security](https://img.shields.io/badge/Specialty-Web3%20Security-purple?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/jlucus)
 [![Responsible Disclosure](https://img.shields.io/badge/Practice-Responsible%20Disclosure-green?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/jlucus)
+
 
 Focused on uncovering critical flaws in high-impact platforms to protect users and infrastructure.
 
@@ -79,6 +94,8 @@ Social Engineering, Reverse Engineering, Fuzzing, Protocol Analysis, Penetration
 [![Email](https://img.shields.io/badge/-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@domain.com)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/jlucus/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=jlucus&color=red&style=flat-square&label=Profile+Views)
+
 
 *All security research is conducted ethically with proper authorization and follows responsible disclosure practices.*
+****
