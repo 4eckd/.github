@@ -52,21 +52,25 @@ Focused on uncovering critical flaws in high-impact platforms to protect users a
 
 ### 🔍 Notable Security Findings
 
-**Critical Smart Contract Vulnerabilities**
-- Identified deceptive event emissions causing blockchain explorers to display misleading information
-- Discovered hidden token redirection mechanisms in burn functions that secretly transfer tokens instead of destroying them
-- Documented selective functionality patterns designed to obfuscate contract behavior
-- Disclosed an Authentication bypass on a popular Metaverse platform which allowed any person to see private financial documents that should only have been seen by specific shareholders of those contracts (8/20/2025) 
+**Year In Review 2025: Critical Security Vulnerabilities**
+- Discovered: Deceptive event emissions causing blockchain explorers to display misleading information (February 2025) 
+- Disclosed: Hidden token redirection mechanisms in burn functions that secretly transfer tokens instead of destroying them (March 2025 | $SHFL) 
+- Documented: Selective functionality patterns designed to obfuscate contract behavior (June 2025) 
+- Disclosed: An Authentication bypass on a popular Metaverse platform which allowed any person to see private financial documents that should only have been seen by specific shareholders of those contracts (August 2025)
+- Disclosed: A loss of funds to Stake.com based on Blockchain analysis (July 2025)
+- Disclosed: Telegram Bot API does not destroy tokens when transfered or auctioned on fragment allowing the seller / attacker opportunity to unauthorized access to victims / reciever / buyer (March 2025)
+- Disclosed: An online gambling platform that shared hidden user data through an insecure API endpoint even though users privacy settings were hidden (May 2025)
+- Disclosed: An online gambling platform misconfiguration allowing a cloudflare turnstile bypass + replay attack (June 2025) 
 
 **Platform Security Analysis**
-- Investigated alleged $20M+ fund misappropriation cases with comprehensive blockchain analysis
-- Analyzed anonymous leadership structures and operational pattern concerns
-- Documented security vulnerabilities affecting vulnerable user populations in gambling platforms
-- Responsible disclosure following industry best practices
-- Collaboration with security teams for effective remediation
-- Documentation and knowledge sharing with the security community
+- Investigated alleged $20M+ fund misappropriation cases with comprehensive blockchain analysis 
+- Analyzed anonymous leadership structures and operational pattern concerns 
+- Documented security vulnerabilities affecting vulnerable user populations in gambling platforms 
+- Responsible disclosure following industry best practices 
+- Collaboration with security teams for effective remediation 
+- Documentation and knowledge sharing with the security community 
 - Focus on high-impact vulnerabilities affecting user privacy and financial security
-
+ 
 ### 📋 Research Methodology  
 [![Personal Website](https://img.shields.io/badge/-jlucus.dev-3423A6?style=flat&logo=google-chrome&logoColor=white)](https://jlucus.dev)  
 [![Email](https://img.shields.io/badge/-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@domain.com)
