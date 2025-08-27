@@ -9,10 +9,6 @@
 ## 🧪 About This Account
 
 This is my experimental development space where I explore new technologies, test innovative ideas, and build passion projects. While my main account focuses on professional work, this is where creativity meets code without boundaries.
-
-## 🔥 Combined Development Power
-
-<div align="center">
   
 ### 📊 Multi-Account Stats Overview
   
@@ -32,17 +28,6 @@ This is my experimental development space where I explore new technologies, test
 </table>
 
 <div align="center">
-  
-### 🌟 Combined Activity Visualization
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4eckd&theme=redical&hide_border=true" alt="4eckd Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4eckd&layout=compact&theme=radical&hide_border=true" alt="4eckd Top Languages" />
 </div>
 
 ## 🛠️ What You'll Find Here
@@ -61,7 +46,6 @@ This is my experimental development space where I explore new technologies, test
 
 ## 💡 Tech Focus Areas
 
-```yaml
 Primary_Interests:
   - Web3 & Blockchain Development
   - Full-Stack JavaScript/TypeScript
@@ -73,7 +57,7 @@ Experimental_Stack:
   - Solidity & Smart Contracts
   - Node.js & Serverless
   - AI/ML Integration Tools
-```
+
 
 ## 🌐 Development Ecosystem
 
