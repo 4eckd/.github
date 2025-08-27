@@ -56,6 +56,7 @@ Focused on uncovering critical flaws in high-impact platforms to protect users a
 - Identified deceptive event emissions causing blockchain explorers to display misleading information
 - Discovered hidden token redirection mechanisms in burn functions that secretly transfer tokens instead of destroying them
 - Documented selective functionality patterns designed to obfuscate contract behavior
+- Disclosed an Authentication bypass on a popular Metaverse platform which allowed any person to see private financial documents that should only have been seen by specific shareholders of those contracts (8/20/2025) 
 
 **Platform Security Analysis**
 - Investigated alleged $20M+ fund misappropriation cases with comprehensive blockchain analysis
