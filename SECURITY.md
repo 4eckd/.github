@@ -88,7 +88,7 @@ Focused on uncovering critical flaws in high-impact platforms to protect users a
  
 ### 📋 Research Methodology  
 
-Social Engineering, Reverse Engineering, Fuzzing, Protocol Analysis, Penetration Testing, Vulnerability Assessments, Quantitative Surveys, Qualitative Interviews, Case Studies, Smart Contract Auditing, Re-entrancy Attacks, Side-entrancy Attacks, Improper Input (overflow) Attacks, Malware Forensic Analysis, Blockchain Forensic Analysis & more.
+Social Engineering, Reverse Engineering, Fuzzing, Protocol Analysis, Penetration Testing, Vulnerability Assessments, Quantitative Surveys, Qualitative Interviews, Case Studies, Smart Contract Auditing, Re-entrancy Attacks, Side-entrancy Attacks, Improper Input (overflow) Attacks, Malware Forensic Analysis, Blockchain Forensic Analysis, Credential Stuffing & more as I see fit.
 
 [![Personal Website](https://img.shields.io/badge/-jlucus.dev-3423A6?style=flat&logo=google-chrome&logoColor=white)](https://jlucus.dev)  
 [![Email](https://img.shields.io/badge/-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@domain.com)
