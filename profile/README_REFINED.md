@@ -443,13 +443,13 @@ If my security research has protected your platform or you'd like to support con
 
 ## 📊 Current Focus Areas
 
-```javascript
-const currentFocus = {
-  research: ["Smart Contract Vulnerabilities", "Blockchain Forensics", "Zero-Day Discovery"],
-  development: ["Web3 Integration", "Telegram Bots", "Microservices"],
-  investigations: ["Securities Fraud", "Market Manipulation", "Platform Accountability"],
-  availability: "Booking Q1 2026 Security Audits & Forensic Investigations"
-};
+```json
+{
+  "research": ["Smart Contract Vulnerabilities", "Blockchain Forensics", "Zero-Day Discovery"],
+  "development": ["Web3 Integration", "Telegram Bots", "Microservices"],
+  "investigations": ["Securities Fraud", "Market Manipulation", "Platform Accountability"],
+  "availability": "Booking Q1 2026 Security Audits & Forensic Investigations"
+}
 ```
 
 ---
