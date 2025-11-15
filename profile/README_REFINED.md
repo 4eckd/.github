@@ -16,16 +16,44 @@
 
 <div align="center">
 
-### 🚨 SECURITY IMPACT METRICS 🚨
+### 🏆 SECURITY IMPACT TROPHY CASE 🏆
 
-| Metric | Impact |
-|--------|--------|
-| **Critical Vulnerabilities Disclosed** | `25+` |
-| **User Accounts Protected** | `~1,000,000+` |
-| **Potential Losses Prevented** | `$20M+` |
-| **Estimated Bounty Value (2025)** | `$195K-$415K` |
-| **Major Platforms Secured** | `12` |
-| **Responsible Disclosure Rate** | `100%` |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🥇-CRITICAL_VULNS-FFD700?style=for-the-badge&labelColor=1a1a1a" /><br/>
+<h3>25+</h3>
+<sub>Critical Vulnerabilities Disclosed</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🛡️-USERS_PROTECTED-00D9FF?style=for-the-badge&labelColor=1a1a1a" /><br/>
+<h3>1,000,000+</h3>
+<sub>User Accounts Secured</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💰-LOSSES_PREVENTED-00FF88?style=for-the-badge&labelColor=1a1a1a" /><br/>
+<h3>$20M+</h3>
+<sub>Potential Losses Prevented</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💎-BOUNTY_VALUE-8B5CF6?style=for-the-badge&labelColor=1a1a1a" /><br/>
+<h3>$195K-$415K</h3>
+<sub>Estimated Bounty Value (2025)</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎯-PLATFORMS-FF6B6B?style=for-the-badge&labelColor=1a1a1a" /><br/>
+<h3>12</h3>
+<sub>Major Platforms Secured</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/✅-DISCLOSURE_RATE-00FF00?style=for-the-badge&labelColor=1a1a1a" /><br/>
+<h3>100%</h3>
+<sub>Responsible Disclosure</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
