@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Security+Researcher;Vulnerability+Hunter;Web3+Developer;Blockchain+Investigator;Full-Stack+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Security+Researcher;Vulnerability+Hunter;Web3+Developer;Blockchain+Investigator;Full-Stack+Engineer)](https://github.com/4eckd)
 
-<img src="https://komarev.com/ghpvc/?username=jlucus&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=4eckd&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
