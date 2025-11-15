@@ -436,7 +436,7 @@ If my security research has protected your platform or you'd like to support con
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jlucus.dev-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jlucus.dev)
 [![Email](https://img.shields.io/badge/Email-hello@jlucus.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@jlucus.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jlucus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/supitsj)
 
 **🔒 For Sensitive Disclosures**: Request PGP key via email
 
