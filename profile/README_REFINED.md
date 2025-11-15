@@ -54,7 +54,7 @@
 </td>
 </tr>
 </table>
- 
+
 </div>
 
 ---
@@ -362,7 +362,6 @@ Based on track record of critical discoveries and specialized blockchain forensi
 | **Incident Response** | $750-1,000/hr | $6,000/day | $25K-100K |
 | **Expert Witness** | $850-1,200/hr | N/A | Case-dependent |
 | **Training/Workshops** | $400-600/hr | $3,200/day | $10K-30K |
-| **Fullstack Web Development** | $200-500/hr | $4,000/day | $15K-50K |
 
 ### 🎯 Value Proposition
 
@@ -388,26 +387,24 @@ If my security research has protected your platform or you'd like to support con
 <td align="center">
 <h3>🌐 Crypto Donations</h3>
 <code>h4shed.sol</code><br/>
-<img src="https://img.shields.io/badge/Solana-3C3C3D?style=for-the-badge&logo=solana&logoColor=purple" /><br/>
+<sub>ENS/Ethereum/Polygon/Arbitrum</sub><br/><br/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+</td>
+<td align="center">
+<h3>☕ Traditional Support</h3>
+<a href="https://buymeacoffee.com/jlucus">Buy Me A Coffee</a><br/>
+<sub>For those preferring traditional methods</sub><br/><br/>
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </td>
 </tr>
 </table>
 
-<table>
-  <tr>
-    <td align="center">
-<h3> Your support enables: </h3>
-      
-<sub> - 🔍 Independent fraud investigations </sub>
-      
-<sub> - 🛡️ Responsible disclosure practices </sub>
-
-<sub> - 📚 Free security education content </sub>
-
-<sub> - 🌐 Open-source forensics tools </sub>
-</td>
-</tr>
-</table>
+**Your support enables:**
+- 🔍 Independent fraud investigations
+- 🛡️ Responsible disclosure practices
+- 📚 Free security education content
+- 🌐 Open-source forensics tools
 
 </div>
 
@@ -447,26 +444,21 @@ If my security research has protected your platform or you'd like to support con
 ## 📊 Current Focus Areas
 
 ```json
-
 {
-
   "research": ["Smart Contract Vulnerabilities", "Blockchain Forensics", "Zero-Day Discovery"],
-
   "development": ["Web3 Integration", "Telegram Bots", "Microservices"],
-
   "investigations": ["Securities Fraud", "Market Manipulation", "Platform Accountability"],
-
   "availability": "Booking Q1 2026 Security Audits & Forensic Investigations"
-
 }
-
 ```
+
+---
 
 <div align="center">
 
 ### 🌟 Mission Statement
 
-*"Using technology as a force multiplier for truth and accountability. He who controls the media, controls the masses."*
+*"Using technology as a force multiplier for truth and accountability. Every vulnerability disclosed makes the digital world safer. Every investigation protects consumers from fraud. Every line of code empowers communities. This is how we build a better internet - one discovery, one fact, one commit at a time."*
 
 ---
 
