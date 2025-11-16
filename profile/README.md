@@ -68,41 +68,47 @@
 
 🥇 **$SHFL Token Vulnerability** *(March 2025)*
 - **Impact**: Exposed deceptive burn functions secretly redirecting tokens
-- **Severity**: CRITICAL - Affected entire token ecosystem
+- **Severity**: 🔴CRITICAL - Affected entire token ecosystem
 - **Potential Bounty**: $50,000 - $100,000
 - **Status**: ✅ Disclosed & Documented
 
 🥇 **Telegram Bot API Zero-Day** *(March 2025)*
 - **Impact**: Token persistence vulnerability affecting millions of bots
-- **Severity**: CRITICAL - Global bot ecosystem affected
+- **Severity**: 🔴CRITICAL - Global bot ecosystem affected
 - **Potential Bounty**: $75,000 - $150,000
 - **Status**: ✅ Responsibly Disclosed
 
 🥇 **Metaverse Authentication Bypass** *(August 2025)*
 - **Impact**: Exposed private shareholder financial documents
-- **Severity**: HIGH - Sensitive financial data exposure
+- **Severity**: 🟠HIGH - Sensitive financial data exposure
 - **Potential Bounty**: $25,000 - $50,000
 - **Status**: ✅ Platform Patched
 
 🥈 **Stake.com Blockchain Analysis** *(July 2025)*
 - **Impact**: Documented $20M+ suspicious fund movements
-- **Severity**: HIGH - Major financial implications
+- **Severity**: 🟠HIGH - Major financial implications
 - **Potential Bounty**: $30,000 - $75,000
 - **Status**: ✅ Evidence Documented
 
 🥈 **Cloudflare Turnstile Bypass** *(June 2025)*
 - **Impact**: Replay attack vector in major gambling platform
-- **Severity**: MEDIUM - Authentication weakness
+- **Severity**: 🟡MEDIUM - Authentication weakness
 - **Potential Bounty**: $10,000 - $25,000
 - **Status**: ✅ Vendor Notified
 
 🥈 **Hidden API Data Leakage** *(May 2025)*
 - **Impact**: Privacy settings bypass exposing user PII
-- **Severity**: MEDIUM - Privacy violation
+- **Severity**: 🟡MEDIUM - Privacy violation
 - **Potential Bounty**: $5,000 - $15,000
 - **Status**: ✅ Fixed
 
-### 💰 **Estimated Total Bounty Value: $195,000 - $415,000**
+🥈 **Authentication Bypass - Co-authored Disclosure** *(November 2025)*
+- **Impact**: Backend session validation mishandling led to account takeovers using phished cookies on an online gambling startup
+- **Severity**: 🔴CRITICAL - Improper Session Handling
+- **Potential Bounty**: $10,000+
+- **Status**: ✅ Fixed
+
+### 💰 **Estimated Total Bounty Value: $205,000 - $425,000**
 
 </details>
 
