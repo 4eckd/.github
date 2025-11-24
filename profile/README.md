@@ -393,8 +393,10 @@ If my security research has protected your platform or you'd like to support con
 <tr>
 <td align="center">
 <h3>🌐 Crypto Donations</h3>
+<a href="https://solscan.io/account/GMr9rXrFSt5H3xX1wi85vyCQfwwLsQpULwNEjrSghvRN" target="_blank">
 <code>h4shed.sol</code><br/>
-<img src="https://img.shields.io/badge/Solana-3C3C3D?style=for-the-badge&logo=solana&logoColor=purple" /><br/>
+<img src="https://img.shields.io/badge/Solana-3C3C3D?style=for-the-badge&logo=solana&logoColor=purple" />
+</a>
 </td>
 </tr>
 </table>
